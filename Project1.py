@@ -1,6 +1,7 @@
-"""
-
-"""
+""" Meal Master - Online Restaurant Booking System  
+A Python-based project to book and manage restaurant reservations.  
+Handles user input, prevents double bookings, and stores reservation data.  
+Designed for easy use and real-world learning. """
 
 food = {
     'Breakfast': {
