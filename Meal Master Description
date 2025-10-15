@@ -1,0 +1,14 @@
+Meal Master is a Python-based restaurant booking project designed to make dining reservations simple, efficient, and accessible online. It allows users to easily browse restaurants, 
+check table availability, and book their preferred time slots — all within a clean and user-friendly interface. The project demonstrates how Python can be used to build a real-world 
+application that handles input validation, data management, and user interaction. The system ensures that no double bookings occur by managing each reservation securely.This project
+is ideal for beginners exploring real-life applications of Python and for students who want to understand how reservation systems work. It covers key programming concepts 
+such as file handling, loops, functions, conditionals, and modular coding — all while solving a practical problem.
+
+Features:
+-> Online restaurant booking system
+-> Real-time availability check
+-> User registration and booking management
+-> Data storage and retrieval
+-> Clean, modular Python code
+
+Meal Master shows how coding can make everyday experiences like restaurant reservations faster, smarter, and more convenient!
